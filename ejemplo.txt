@@ -4,4 +4,6 @@ Edad: 19 años
 Cosas por aprender: git and github
                     python
                     Ai
+                    Data Science
+                    
                     
