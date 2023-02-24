@@ -5,5 +5,6 @@ Cosas por aprender: git and github
                     python
                     Ai
                     Data Science
+                    Ingles
                     
                     
