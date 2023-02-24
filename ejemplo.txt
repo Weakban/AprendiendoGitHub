@@ -6,5 +6,7 @@ Cosas por aprender: git and github
                     Ai
                     Data Science
                     Ingles
+                    prueba de reset HEAD
+                    
                     
                     
