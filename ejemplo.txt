@@ -1,3 +1,4 @@
 Practicando repositorio 23/02/2023
 Nombre: Ivan Alejandro Abarca Perez
-Edad: 19 
+Edad: 19 años
+Cosas por aprender: git and github
