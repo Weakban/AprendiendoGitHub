@@ -7,6 +7,7 @@ Cosas por aprender: git and github
                     Data Science
                     Ingles
                     prueba de reset HEAD
+                    prueba, haciendo commit en GitHub
                     
                     
                     
