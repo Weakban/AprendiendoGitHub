@@ -8,6 +8,6 @@ Cosas por aprender: git and github
                     Ingles
                     prueba de reset HEAD
                     prueba, haciendo commit en GitHub
-                    
+                    cambiando repositorio remoto de HHTTP a SSH
                     
                     
